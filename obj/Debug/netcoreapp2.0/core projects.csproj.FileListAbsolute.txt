@@ -1,0 +1,11 @@
+C:\Mayssa\core projects\bin\Debug\netcoreapp2.0\core projects.deps.json
+C:\Mayssa\core projects\bin\Debug\netcoreapp2.0\core projects.runtimeconfig.json
+C:\Mayssa\core projects\bin\Debug\netcoreapp2.0\core projects.runtimeconfig.dev.json
+C:\Mayssa\core projects\bin\Debug\netcoreapp2.0\core projects.dll
+C:\Mayssa\core projects\bin\Debug\netcoreapp2.0\core projects.pdb
+C:\Mayssa\core projects\obj\Debug\netcoreapp2.0\core projects.csproj.CoreCompileInputs.cache
+C:\Mayssa\core projects\obj\Debug\netcoreapp2.0\core projects.AssemblyInfoInputs.cache
+C:\Mayssa\core projects\obj\Debug\netcoreapp2.0\core projects.AssemblyInfo.cs
+C:\Mayssa\core projects\obj\Debug\netcoreapp2.0\core projects.dll
+C:\Mayssa\core projects\obj\Debug\netcoreapp2.0\core projects.pdb
+C:\Mayssa\core projects\bin\Debug\netcoreapp2.0\appsettings.json
